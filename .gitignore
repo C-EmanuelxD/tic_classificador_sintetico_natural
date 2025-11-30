@@ -3,3 +3,4 @@ links
 Urls
 tic_venv/
 dataset/
+src/__pycache__/
